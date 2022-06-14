@@ -21,8 +21,12 @@ This is a simple project to help you get started with frontend development on NE
 I tested using 
 
 Vercel -- https://vercel.com/dashboard 
+
 Fleek  -- https://fleek.co/ 
-Local in Visual Studio Code using a local server: https://stackoverflow.com/questions/52583550/steps-to-run-node-http-server-in-visual-studio-code
+
+Local in Visual Studio Code using a local server:
+
+https://stackoverflow.com/questions/52583550/steps-to-run-node-http-server-in-visual-studio-code
 
 To run server once it was installed use:
 
